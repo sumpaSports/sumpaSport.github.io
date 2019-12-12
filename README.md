@@ -1,2 +1,2 @@
-# sumpaSport.github.io
+# sumpaSports.github.io
 Pagina Deportiva
